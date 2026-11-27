@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Valentina García · Licenciatura en Física, UDLAP · Equipo Representativo STEM UDLAP">
-</p>
-
-<p align="center">
-  Me apasionan la tecnología y la innovación. Desarrollo proyectos STEM que unen física, datos y tecnología:<br>
-  astrofísica con <i>machine learning</i>, IoT, ciencia de materiales y apps en Swift.
+  <img src="assets/banner.svg" width="100%" alt="Valentina García · Licenciatura en Física, UDLAP · Equipo Representativo STEM UDLAP· Honors Program UDLAP">
 </p>
 
 <p align="center">
