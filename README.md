@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Valentina García · Licenciatura en Física, UDLAP · Equipo Representativo STEM UDLAP">
+</p>
 
-<!--
-**Valoo-1201/Valoo-1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Me apasionan la tecnología y la innovación. Desarrollo proyectos STEM que unen física, datos y tecnología:<br>
+  astrofísica con <i>machine learning</i>, IoT, ciencia de materiales y apps en Swift.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Passionate about technology and innovation. I build STEM projects that combine physics, data, and technology:<br>
+  astrophysics with machine learning, IoT, materials science, and Swift apps.</i>
+</p>
